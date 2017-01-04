@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Word
+comment0.text=\n\ Write\ a\ description\ of\ class\ Word\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=text
+comment1.target=Word(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ toggle()
+comment4.params=
+comment4.target=java.lang.String\ getText()
+comment5.params=
+comment5.target=int\ getSelected()
+comment6.params=
+comment6.target=int\ getAddedToHashMap()
+comment7.params=value
+comment7.target=void\ setSelected(int)
+comment8.params=value
+comment8.target=void\ setAddedToHashMap(int)
+numComments=9
